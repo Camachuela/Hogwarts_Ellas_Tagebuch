@@ -51,9 +51,13 @@ _AUFSCHLÜSSELUNG_
 <img src="assets/images/session_pic/Ella_S00_Diary_full.webp" alt="S00 Full">
 
 
+---
+
 
 <style>
-/* Tränenoptik */
+/* Für Notizbilder Google Docs Notizen Notes: Bild öffnen zoom nachlesen -> tinka... */
+
+/* Tränenoptik <span style="filter: blur(1.px);"> Mens</span> */
   .strike-container {
     position: relative;
     display: inline-block;
