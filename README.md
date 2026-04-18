@@ -16,8 +16,18 @@ permalink: /
 </style>
 
 <div style="float: right; margin: 0 0 15px 20px; width: 300px; background: transparent;" markdown="1">
-<img src="{{ '/assets/images/general/Hogwarts_Mauern_Heldinnen.webp' | relative_url }}" style="width: 100%; border-bottom: 1px solid #ddd;">
-<p style="font-size: 0.8em; color: gray; margin-top: 5px;">Die Heldinnen von links nach rechts: Ella, Leo, Klara und Genevieve.</p>
+
+  <img src="{{ '/assets/images/general/Hogwarts_Mauern_Heldinnen.webp' | relative_url }}"
+       style="width: 100%; border-bottom: 1px solid #ddd; cursor: zoom-in;"
+       onclick="document.getElementById('modal-heldinnen').style.display='block'">
+
+  <p style="font-size: 0.8em; color: gray; margin-top: 5px;">Die Heldinnen von links nach rechts: Ella, Leo, Klara und Genevieve.</p>
+
+  <div id="modal-heldinnen" class="modal" onclick="this.style.display='none'">
+    <span class="close-btn">&times;</span>
+    <img class="modal-content" src="{{ '/assets/images/general/Hogwarts_Mauern_Heldinnen.webp' | relative_url }}">
+  </div>
+
 </div>
 
 

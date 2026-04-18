@@ -25,6 +25,115 @@
     -ms-hyphens: auto;
 }
 
+/* ======================================================= */
+/* BAUSTEIN 1: DAS KINO-FENSTER (Teilen sich alle Bilder!) */
+/* ======================================================= */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    cursor: zoom-out;
+}
+
+.modal-content {
+    margin: auto;
+    display: block;
+    max-width: 90%;
+    max-height: 90vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    /* --- HIER IST DIE MAGIE GEGEN DEN WEIßEN KASTEN --- */
+    background-color: transparent !important; /* Macht den Hintergrund unsichtbar */
+    border: none !important;                  /* Zerstört den Rahmen */
+    box-shadow: none !important;              /* Löscht den Schatten */
+    padding: 0 !important;                    /* Entfernt innere Abstände */
+    border-radius: 0 !important;              /* Entfernt abgerundete Ecken des Themes */
+}
+
+.close-btn {
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* ======================================================= */
+/* BAUSTEIN 2: LAYOUT FÜR NOTIZEN (Schwebend rechts)       */
+/* ======================================================= */
+.markdown-section .note-image {
+    float: right;
+    /* HIER WURDE DER ABSTAND VERGRÖßERT:
+         oben 0, rechts 1.5em, unten 1.5em, links 0 */
+    margin: 0.25em 1.5em 0.25em 1.5em;
+    max-width: 40%;
+    height: auto;
+    border: none !important;
+    background: transparent !important;
+}
+
+.markdown-section .note-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: none !important;
+    box-shadow: none !important;
+    cursor: zoom-in; /* Lupe beim Drüberfahren */
+}
+
+/* ======================================================= */
+/* BAUSTEIN 3: LAYOUT FÜR EINFACHE BILDER (Zentral & Groß)      */
+/* ======================================================= */
+.diary-image {
+    width: 100% !important;
+    max-width: 600px !important;
+    margin: 20px auto; /* Zentriert das Bild automatisch */
+    display: block;
+    cursor: zoom-in; /* Lupe beim Drüberfahren */
+    border-radius: 3px;
+/    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    transition: transform 0.2s ease;
+}
+
+.diary-image:hover {
+    transform: scale(1.02); /* Hebt sich beim Drüberfahren leicht an */
+}
+
+/* ======================================================= */
+/* BAUSTEIN 4: LAYOUT FÜR HAUSPUNKTE (Zentral & Transparent) */
+/* ======================================================= */
+.markdown-section .housepoints-image {
+    float: none;           /* Kein seitliches Schweben mehr */
+    display: block;        /* Sorgt dafür, dass es eine eigene Zeile einnimmt */
+    max-width: 80%;        /* Schön groß in der Mitte (oder 600px, wie du magst) */
+    height: auto;
+
+    /* Die wichtigen Befehle gegen die weiße Box: */
+    border: none !important;
+    background: transparent !important;
+    border-radius: 0 !important;
+}
+
+.markdown-section .housepoints-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: none !important;
+    box-shadow: none !important; /* Entfernt den Schatten, falls er im Bild schon drin ist */
+    cursor: zoom-in;
+}
+
+/* Tabelle */
 .markdown-section table {
     width: auto;
     margin-top: 1em;

@@ -50,12 +50,16 @@ layout: chapter
 }
 
 .image-container { position: relative; width: 200px; flex-shrink: 0; margin-top: 10px; }
-.profile-pic { width: 100%; border: 1px solid currentColor; }
+.profile-pic {
+  width: 100%;
+  border: 1px solid currentColor;
+  cursor: zoom-in; /* NEU: Zeigt die Lupe beim Drüberfahren */}
 
 .house-seal {
     display: block; width: 80px; height: auto;
     filter: drop-shadow(2px 4px 6px rgba(0,0,0,0.3));
     transform: rotate(-8deg); transition: transform 0.3s ease;
+    cursor: zoom-in; /* NEU: Zeigt die Lupe beim Drüberfahren */
 }
 
 /* --- KLAPP-CHRONIK BASIS-STEUERUNG --- */
@@ -194,11 +198,14 @@ layout: chapter
     </div>
 
     <div class="image-container">
-      <img src="{{ site.baseurl }}/assets/images/cvs/{{ page.token_img }}" class="profile-pic">
-    </div>
-  </div>
+      <img src="{{ site.baseurl }}/assets/images/cvs/{{ page.token_img }}" class="profile-pic" onclick="document.getElementById('modal-pic-{{ page.slug }}').style.display='block'">
 
-  <input type="checkbox" id="chronik-{{ page.slug }}" class="chronicle-toggle">
+      <div id="modal-pic-{{ page.slug }}" class="modal" onclick="this.style.display='none'">
+        <span class="close-btn">&times;</span>
+        <img class="modal-content" src="{{ site.baseurl }}/assets/images/cvs/{{ page.token_img }}">
+      </div>
+    </div>
+  </div> <input type="checkbox" id="chronik-{{ page.slug }}" class="chronicle-toggle">
   <label for="chronik-{{ page.slug }}" class="chronicle-label">
     Chronik der Begegnungen <br> [ ZUM AUSKLAPPEN ]
   </label>
@@ -206,12 +213,19 @@ layout: chapter
   <div class="chronicle-content">
       <p><strong>Bisherige Ereignisse</strong></p>
       <ul class="info-list" style="margin-top: 10px; border: none;">
-          {{ content }} </ul>
+          {{ content }}
+      </ul>
 
       <div style="display: flex; align-items: center; margin-top: 30px; padding-right: 15px; width: 100%;">
           <p style="margin: 0; font-size: 0.9em; opacity: 0.9;">Stand: {{ page.last_update }}</p>
           <div style="flex-grow: 1;"></div>
-          <img src="{{ site.baseurl }}/assets/images/cvs/{{ page.house_slug }}_sigil.webp" class="house-seal" alt="Haus-Siegel">
+
+          <img src="{{ site.baseurl }}/assets/images/cvs/{{ page.house_slug }}_sigil.webp" class="house-seal" alt="Haus-Siegel" onclick="document.getElementById('modal-seal-{{ page.slug }}').style.display='block'">
+
+          <div id="modal-seal-{{ page.slug }}" class="modal" onclick="this.style.display='none'">
+            <span class="close-btn">&times;</span>
+            <img class="modal-content" src="{{ site.baseurl }}/assets/images/cvs/{{ page.house_slug }}_sigil.webp">
+          </div>
       </div>
   </div>
 </div>
