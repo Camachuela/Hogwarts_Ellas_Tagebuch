@@ -10,7 +10,7 @@ date: 1950-08-31
 <br>
 <br>
 
-**Nachtrag: Sonntag, den 31. August 1950, 21:38 Uhr.**
+**Nachtrag: Sonntag, der 31. August 1950, 21:38 Uhr.**
 
 
 Emma, endlich Stille.

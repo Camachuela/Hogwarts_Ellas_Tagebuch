@@ -10,7 +10,7 @@ date: 1950-08-31
 <br>
 <br>
 
-**Sonntag, den 31. August 1950, 09:30 Uhr, in der Winkelgasse, vor Gringotts Zaubererbank.**
+**Sonntag, der 31. August 1950, 09:30 Uhr, in der Winkelgasse, vor Gringotts Zaubererbank.**
 
 
 Liebe Emma,

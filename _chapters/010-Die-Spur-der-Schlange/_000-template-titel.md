@@ -10,7 +10,7 @@ date: 1950-09-01
 <br>
 <br>
 
-**Samstag, den 30. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
+**Samstag, der 30. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
 
 
 Liebe Emma,

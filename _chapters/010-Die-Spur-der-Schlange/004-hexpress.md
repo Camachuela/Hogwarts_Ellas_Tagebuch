@@ -10,7 +10,7 @@ date: 1950-09-01
 <br>
 <br>
 
-**Montag, den 1. September 1950, 22:27 Uhr, Schlafsaal, Hogwarts**
+**Montag, der 1. September 1950, 22:27 Uhr, Schlafsaal, Hogwarts**
 
 
 Emma, ich bin da. Ich bin wirklich hier. In Hogwarts. Eine Schule für Zauberei. Das klingt wie aus einem deiner Märchenbücher, aber es ist real. Es ist völlig absurd und absolut fantastisch gleichzeitig.
