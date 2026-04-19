@@ -15,9 +15,9 @@ location: '—'
 estimate_danger: 'gelb'
 
 # Äußere Erscheinung
-appearance_features: 'Spindeldürr; trägt einen verdächtig ausgebeulten Mantel.'
+appearance_features: 'trägt einen verdächtig ausgebeulten Mantel.'
 appearance_behavior: 'Ängstlich, zitternd, weint viel (Theater oder echte Panik?); zögerlich, panisch; wirkt wie ein gejagtes Tier; permanent verweint; kauert in Ecken; wirkt wie ein „Häufchen Elend“.'
-appearance_details: 'Versteckt einen Niffler in ihrem Mantel; hat ihren Niffler illegal ins Schloss geschmuggelt; wird von Leo offen gemieden; wirkt chronisch erschöpft'
+appearance_details: 'Versteckt einen Niffler in ihrem Mantel; hat ihren Niffler illegal ins Schloss geschmuggelt; wird von Leo offen gemieden'
 
 # Charakter
 char_facade: 'Das hilflose, schikanierte Opfer.'
@@ -31,7 +31,7 @@ char_status: 'Außenseiterin; wird von den Duville-Brüdern schikaniert; Mitglie
 estimate_instinct: 'Ella empfindet Mitleid wegen der Schikanen, aber Ärger wegen des Vertrauensmissbrauchs Leo gegenüber; eine potenzielle Gefahr für den Hausfrieden und die Hauspunkte.'
 estimate_rumors: '—'
 estimate_quote: '—'
-relation_status: 'angespannt, ablehnend'
+relation_status: 'angespannt, kompliziert'
 observations: '—'
 
 # Meta
@@ -42,6 +42,14 @@ last_update: '2. September 1950'
 <li>Sie fiel (womöglich gestoßen) in den See, wurde von Hagrid gerettet und log über den Vorfall, was Ella als feige empfand; angespanntes und ablehnende Verhältnis. Leo ist sehr nachtragend.</li>
 <li>Malona weinte sich durch den Abend, nachdem sie nach Ravenclaw anstatt Hufflepuff kam, verlor wieder ihren Niffler, der mit Sir Richard im Schlafsaal um eine Taschenuhr stritt und gefährdet durch ihr illegales Tier die gesamte Gruppe.</li>
 <li>Malona wurde am ersten Morgen von Ella geweckt und führte die Mädchen sicher zum Frühstück, zog sich dann aber aufgrund von Leos Ablehnung allein zurück.</li>
+<li>Malona hat zugegeben, die durch Sir Richard verschmutzte Kleidung von Ella in der Nacht gewaschen zu haben, und als sie nicht sauber genug wurde, die Hauselfen um Hilfe gebeten hatte. </li>
+
+
+
+
+
+
+
 
 <!--
 
