@@ -7,11 +7,11 @@ date: 1950-09-03
 
 <img src="assets/images/session_pic/Ella_S06_Diary_header.webp" alt="S06 Header">
 
-<br>
-<br>
+---
 
 **Mittwoch, der 3. September 1950, 21:34 Uhr, Ravenclaw Gemeinschaftsraum, Hogwarts**
 
+---
 
 Liebe Emma,
 

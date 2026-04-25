@@ -29,7 +29,7 @@ char_sensitivity: 'Fehlender Respekt gegenüber seinem Titel und seiner Mission.
 # Einschätzung
 estimate_instinct: 'Ein „stinkender Iltis“ und nervtötender Lügner.'
 estimate_rumors: '—'
-estimate_quote: '„Dein Rock ist übrigens absolut aus der Saison.“'
+estimate_quote: '„Dein Rock ist übrigens komplett aus der Saison.“'
 relation_status: 'Plagegeist.'
 observations: '—'
 

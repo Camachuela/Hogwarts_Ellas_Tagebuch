@@ -7,11 +7,11 @@ date: 1950-08-30
 
 <img src="assets/images/session_pic/Ella_S01_Diary_header.webp" alt="S01 Header">
 
-<br>
-<br>
+---
 
 **Samstag, der 30. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London**
 
+---
 
 Liebe Emma,
 

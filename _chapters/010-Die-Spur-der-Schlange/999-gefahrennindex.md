@@ -9,7 +9,7 @@ Damit ich nicht den Überblick verliere und genau weiß, bei wem ich aufpassen m
 <br>
 
 - <span style="color: #4caf50; font-weight: bold;">sicher</span>
-  - Leute, die berechenbar sind. Sie halten sich an Regeln, tun, was sie sagen, und lassen mich in Ruhe. Bei ihnen ist es am entspanntesten.
+  - Personen, die berechenbar sind. Sie halten sich an Regeln, tun, was sie sagen, und lassen mich in Ruhe. Bei ihnen ist es am entspanntesten.
 
 <br>
 
@@ -24,12 +24,12 @@ Damit ich nicht den Überblick verliere und genau weiß, bei wem ich aufpassen m
 <br>
 
 - <span style="color: #ff9800; font-weight: bold;">Gefahr</span>
-  - Leute, die offensichtlich Ärger suchen, lügen oder unberechenbar sind. Bei denen halte ich den Mund fest geschlossen und die Augen weit offen. Absolute Verteidigungshaltung.
+  - Personen, die offensichtlich Ärger suchen, lügen oder unberechenbar sind. Bei denen halte ich den Mund fest geschlossen und die Augen weit offen. Volle Verteidigungshaltung.
 
   <br>
 
 - <span style="color: #f44336; font-weight: bold;">Bedrohung</span>
-  - Leute, die aktiv versuchen, mich fertigzumachen. Wer hier landet, für den existiere ich nicht mehr. Ich werde kein Wort mehr mit ihnen wechseln, außer es geht um Leben und Tod.
+  - Personen, die aktiv versuchen, mich fertigzumachen. Wer hier landet, für den existiere ich nicht mehr. Ich werde kein Wort mehr mit ihnen wechseln, außer es geht um Leben und Tod.
 
 <br>
 
