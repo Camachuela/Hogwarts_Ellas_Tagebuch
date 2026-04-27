@@ -29,21 +29,19 @@ permalink: /
   </div>
 
 </div>
+Was du hier liest – „Ellas Tagebuch“ – ist mehr als nur eine Geschichte, die ich mir im stillen Kämmerlein ausdenke. Es ist das Protokoll einer lebendigen Reise, eines Spiels, das von Zufall, Chaos und Freundschaft lebt. Um zu verstehen, wie Ellas Erlebnisse überhaupt zustande kommen, hilft ein kurzer Blick hinter die Kulissen, denn die Basis für dieses Abenteuer ist ein Pen & Paper Rollenspiel, auch TTRPG genannt.
 
+Stell dir das Ganze am besten wie ein interaktives Hörspiel oder ein gemeinsames Buch vor, das wir live am Spieltisch schreiben. Es gibt kein festes Drehbuch, sondern nur einen Rahmen und unsere Fantasie. Ich schlüpfe dabei in die Rolle von Ella und treffe alle Entscheidungen für sie, während meine Mitspielerinnen dasselbe für ihre Figuren Leo, Genevieve und Klara tun. Wir wissen vorher nie, wie die anderen auf eine bestimmte Situation reagieren werden. Den erzählerischen Rahmen für all das bildet unser Spielleiter, der Game Master. Er ist sozusagen unser Regisseur und die Welt zugleich: Er beschreibt uns die Korridore von Hogwarts, übernimmt die Rollen der anderen und entscheidet, wie die Umgebung auf unsere oft chaotischen Ideen reagiert.
 
-Was du hier liest – Ellas Tagebuch – ist mehr als nur eine Geschichte, die ich mir im stillen Kämmerlein ausdenke. Es ist das Protokoll einer lebendigen Reise, eines Spiels, das von Zufall, Chaos und Freundschaft lebt.
+Das Spannendste an dieser Art des Erzählens ist jedoch, dass nicht immer alles so klappt, wie wir uns das vorstellen. Wir können nicht einfach beschließen, dass ein Plan reibungslos funktioniert. Wenn der Ausgang einer Handlung ungewiss ist – sei es beim Brauen eines komplizierten Zaubertranks, beim Schleichen an einem Vertrauensschüler vorbei oder beim Wirken eines schwierigen Zaubers –, dann entscheiden die Würfel über Erfolg oder Niederlage. Und diese unbarmherzige, aber großartige Mechanik gilt ausnahmslos für jeden in dieser Welt.
 
-Was ist das hier eigentlich? Die Basis für Ellas Abenteuer ist ein Pen & Paper Rollenspiel (RPG), angesiedelt in der Welt von Harry Potter, genauer gesagt im Jahr 1950. Falls du noch nie von Pen & Paper gehört hast: Stell es dir vor wie ein interaktives Hörspiel oder ein gemeinsames Buch, das wir live schreiben.
+Ella und ihre Freundinnen haben zwar individuelle Stärken und Schwächen auf ihren Charakterbögen notiert, aber das Schicksal der Würfel hat stets das letzte Wort. Manchmal haben wir unfassbares Glück und vollbringen heldenhafte Taten, die uns selbst überraschen. Wenn das Pech jedoch zuschlägt, endet selbst der einfachste Spruch in einer Katastrophe. Wenn Ella also davon berichtet, dass jemand aus der Gruppe vom Besen gefallen ist, etwas grandios vermasselt hat oder in eine furchtbar peinliche Situation geraten ist, dann war das keine erzählerische Absicht von mir, sondern schlichtweg Würfelpech am Spieltisch.
 
-Ich spiele die Hauptrolle dieses Tagebuches (Ella) und treffe Entscheidungen für sie. Dann gibt es noch Leo, Genevieve und Klara, die ebenfalls von Mitspielerinnen gespielt werden.
+Und das Beste daran: Sogar der Spielleiter ist dem Zufall ausgeliefert. Er steuert die sogenannten NPCs, also alle Nicht-Spieler-Charaktere wie Lehrer:innen, Mitschüler:innen, Geister oder magische Kreaturen, und muss für sie ebenfalls würfeln. Wenn uns ein strenger Professor bei einem nächtlichen Ausflug nicht erwischt, liegt das oft gar nicht an unseren brillanten Schleichkünsten, sondern daran, dass der Spielleiter für den Lehrer einfach miserabel gewürfelt hat. Genau dieses ständige Schwanken zwischen unerwarteten Triumphen und totalem Chaos – bei uns Spielerinnen genauso wie bei der Welt um uns herum – macht die Geschichte so unvorhersehbar und echt.
 
-Der Spielleiter (Game Master) beschreibt die Welt, die Lehrer, die Mitschüler und die Reaktionen auf unser Handeln.
+Angesiedelt ist unser Abenteuer im Jahr 1950, also lange vor Harry Potter, aber in genau der Welt, die wir so lieben. Da Pen & Paper jedoch von der Spontaneität lebt, ist unsere Geschichte nicht immer streng kanongetreu. Es kann durchaus passieren, dass wir die offizielle Lore der Bücher hin und wieder dehnen oder leicht verändern. Vielleicht befindet sich ein Raum an einer anderen Stelle, ein Zauberspruch wirkt etwas anders als gedacht, oder historische Details werden zugunsten der Spannung angepasst. Für den gemeinsamen Spiel- und Lesespaß drücken wir da ganz bewusst ein Auge zu. Betrachte es einfach als eine alternative Zeitlinie, in der die Geschichte genau so fließt, wie die Würfel gerade fallen.
 
-Und die Würfel entscheiden über Erfolg oder Niederlage.
-
-Wenn Ella also im Tagebuch schreibt, dass sie jemanden umgerannt hat, vom Besen gefallen ist oder einen Zauberspruch grandios vermasselt hat, dann habe ich als Spielerin wahrscheinlich einfach schlecht gewürfelt. Das macht die Geschichte so unvorhersehbar und echt.
-
-Bitte beachte daher auch die [Triggerwarnung](#triggerwarnung) am Ende der Seite.
+Bitte beachte auch die [Triggerwarnung](#triggerwarnung) am Ende der Seite.
 
 ---
 
