@@ -1,11 +1,11 @@
 ---
-title: 'Erster Schultag: Diptam, Duelle und der Duft von Papier'
-slug: eintrag-005
+title: '02.09.1950: Diptam, Duelle und der Duft von Papier'
+slug: eintrag-004
 abstract: Ella meistert ihren ersten Unterrichtstag und entdeckt die unberechenbare Kraft ihrer eigenen Magie.
 date: 1950-09-02
 ---
 
-<img src="assets/images/session_pic/Ella_S05_Diary_header.webp" alt="S05 Header">
+<img src="assets/images/session_pic/Ella_S04_Diary_header.webp" alt="S04 Header">
 
 ---
 
@@ -41,7 +41,7 @@ Es war überaus angenehm, kann ich dir sagen. Als ich mich strecken wollte, hat 
 
 Also, in dem Traum stand ich mit Genevieve, Klara und Voodoo in einem großen Raum an einem seltsamen, langen Tisch. Und weißt du, wer nicht da war? Leo. Das hat mich im Traum schon irritiert, aber jetzt im wachen Zustand lässt es mich nicht mehr los. Ich halte eigentlich überhaupt nichts von alberner Traumdeutung – es ist völlig unlogisch die absurdesten Träume als verschlüsselte Wunscherfüllungen des Unbewussten zu interpretieren und gehört in billige Groschenromane –, aber dass ausgerechnet Leo fehlte... Emma, das kann doch kein reiner Zufall sein. Erst gestern Abend, als ich in diese furchtbare Gedankenspirale geraten bin, habe ich doch ernsthaft darüber nachgedacht, mich von ihr zurückzuziehen. Ich hatte mir doch überlegt, dass es logischer und sicherer wäre, eine Distanz zwischen uns zu wahren, *bevor* sie merkt, wie anstrengend ich bin, und sich lieber weniger anstrengenden Menschen zuwendet.
 
-cDass ich von nun an ohne meine einzige Konstante durch diese überwältigende, magische Welt navigieren soll?
+Dass ich von nun an ohne meine einzige Konstante durch diese überwältigende, magische Welt navigieren soll?
 
 Es macht mich wahnsinnig. Auf der einen Seite ist es einfach so unglaublich leicht, in ihrer Nähe zu sein. Wenn sie lacht und ohne Punkt und Komma redet, ist das wie ein bequemer Schutzschild gegen meine eigenen, lauten Gedanken. Sie nimmt einfach so viel Raum mit ihrer fröhlichen Art ein, dass ich in ihrem Schatten endlich einmal durchatmen kann, ohne mich ständig anstrengen zu müssen. Ich weiß, ich *will* diese Freundschaft nicht auf Distanz halten. Der bloße Gedanke daran, mich freiwillig von ihr wegzusetzen und wieder ganz allein in meiner Isolation zu sitzen, zieht mir richtig unangenehm die Brust  zusammen.
 
@@ -711,4 +711,4 @@ Bis morgen!
 
 ---
 
-<img src="assets/images/session_pic/Ella_S05_Diary_full.webp" alt="S05 Full">
+<img src="assets/images/session_pic/Ella_S04_Diary_full.webp" alt="S04 Full">

@@ -1,11 +1,11 @@
 ---
-title: 'Hogwarts Express: Gleise, Geleebohnen und Gedankenspiralen'
-slug: eintrag-004
+title: '01.09.1950: Gleise, Geleebohnen und Gedankenspiralen'
+slug: eintrag-003
 abstract: Ella fährt nach Hogwarts und wird in ihr Haus eingeteilt.
 date: 1950-09-01
 ---
 
-<img src="assets/images/session_pic/Ella_S04_Diary_header.webp" alt="S04 Header">
+<img src="assets/images/session_pic/Ella_S03_Diary_header.webp" alt="S03 Header">
 
 ---
 
@@ -802,7 +802,7 @@ ALTER SALDO: <span style="text-decoration: underline; text-decoration-style: dou
 
 | Datum | Betrag | Bezeichnung | Rechtfertigung |
 | :--- | :--- | :--- | :--- |
-| 01.09.1950 | - 12 G | Kauf: 2 Schokofrösche | Verpflegungsmehraufwand (Reisekosten) |
+| 01.09.1950 | - 12 G | Ausgabe: 2 Schokofrösche | Verpflegungsmehraufwand (Reisekosten) |
 
 
 NEUER SALDO: <span style="text-decoration: underline; text-decoration-style: double;">127 G</span>
@@ -824,7 +824,7 @@ Apropos *richtig unangenehm*: Ich habe einen [Gefahrenstufen-Index](threatlevel)
 
 ---
 
-<img src="assets/images/session_pic/Ella_S04_Diary_full.webp" alt="S04 Full">
+<img src="assets/images/session_pic/Ella_S03_Diary_full.webp" alt="S03 Full">
 
 
 

@@ -20,8 +20,29 @@ abstract:
 **Punktebewegungen**
 
 ---
+**03.09.1950** <br>
+*Ravenclaw: 50  |  Hufflepuff: 47  |  Slytherin: 40  |  Gryffindor: 42*
 
-02.09.1950
+ **+8 Punkte für Ravenclaw**
+- Klara brillierte im Zaubertrankunterricht mit dem Aufpäppeltrank (+2).
+- Ella brillierte im Zaubertrankunterricht mit der Antwort Diptam (+2).
+- Klaras Antwort im magische Tierwesenunterricht für einen Niffler (+2).
+- Ellas Fund eines Bowtruckles im magische Tierwesenunterricht (+2).
+
+**+4 Punkte für Hufflepuff**
+- Leos Sicht eines Knuddelmuffs im magische Tierwesenunterricht (+2).
+- Leo weiß den Zauber zum Zurückverwandeln (+2).
+
+**+2 Punkte für Gryffindor**
+- Colins perfekter Aufpäppeltrank.
+
+**-5 Punkte für Gryffindor**
+- Eik hat Klara in ein Frettchen verwandelt.
+
+---
+
+**02.09.1950**  <br>
+*Ravenclaw: 22  |  Hufflepuff: 23  |  Slytherin: 20  |  Gryffindor: 25*
 
 **+3 Punkte für Hufflepuff**
   - Leo brillierte im Zauberkundeunterricht und wusste Lumos und Alohomora.
@@ -39,23 +60,6 @@ abstract:
   - Prof. Murtel gab Dorothy Punkte für das effektive Einordnen der Schüler in zwei Gruppen.
 
 ---
-
-[comment]: <> 03.09.1950
-[comment]: <> - +8 Punkte für Ravenclaw
-[comment]: <>   - Klara brillierte im Zaubertrankunterricht mit dem Aufpäppeltrank (+2).
-[comment]: <>   - Ella brillierte im Zaubertrankunterricht mit der Antwort Diptam (+2).
-[comment]: <>   - Klara Antwort im magische Tierwesenunterricht für einen Niffler (+2).
-[comment]: <>   - Ellas Fund eines Bowtruckles im magische Tierwesenunterricht (+2).
-
-[comment]: <> - +4 Punkte für Hufflepuff
-[comment]: <>   - Leos Sicht eines Knuddelmuffs im magische Tierwesenunterricht (+2).
-[comment]: <>   - Leo weiß den Zauber zum Zurückverwandeln (+2).
-
-[comment]: <> - +2 Punkte für Gryffindor
-[comment]: <>   - Colins perfekter Aufpäppeltrank.
-
-[comment]: <> - -5 Punkte für Gryffindor
-[comment]: <>   - Eik hat Klara in ein Frettchen verwandelt.
 
 
 [comment]: <> Gryffindor/Slytherin/Hufflepuff je 100 Startpunkte; Ravenclaw 150

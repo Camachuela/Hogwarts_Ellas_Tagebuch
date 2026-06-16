@@ -8,32 +8,7 @@ Damit ich nicht den Überblick verliere und genau weiß, bei wem ich aufpassen m
 
 <br>
 
-- <span style="color: #4caf50; font-weight: bold;">sicher</span>
-  - Personen, die berechenbar sind. Sie halten sich an Regeln, tun, was sie sagen, und lassen mich in Ruhe. Bei ihnen ist es am entspanntesten.
-
-<br>
-
-- <span style="color: #ccc; font-weight: bold;">neutral</span>
-  - Die große Masse. Leute, die einfach da sind, aber keinen Einfluss auf mich haben. Sie sind wie Statisten im Hintergrund.
-
-<br>
-
-- <span style="color: #ffeb3b; font-weight: bold;">Warnung</span>
-  - Hier schrillen die ersten Alarmglocken. Es muss nichts Bestimmtes sein, nur so ein Gefühl, dass irgendwas an der Person nicht stimmt oder nicht zusammenpasst. Wenn mein Instinkt sagt „Vorsicht“, kommen sie hierhin – egal, wie sie sich verhalten.
-
-<br>
-
-- <span style="color: #ff9800; font-weight: bold;">Gefahr</span>
-  - Personen, die offensichtlich Ärger suchen, lügen oder unberechenbar sind. Bei denen halte ich den Mund fest geschlossen und die Augen weit offen. Volle Verteidigungshaltung.
-
-  <br>
-
-- <span style="color: #f44336; font-weight: bold;">Bedrohung</span>
-  - Personen, die aktiv versuchen, mich fertigzumachen. Wer hier landet, für den existiere ich nicht mehr. Ich werde kein Wort mehr mit ihnen wechseln, außer es geht um Leben und Tod.
-
-<br>
-
-  Farblegende:
+Farblegende:
 
   <span class="house-name gryffindor">Gryffindor</span>, <span class="house-name hufflepuff"> Hufflepuff</span>, <span class="house-name ravenclaw"> Ravenclaw</span>, <span class="house-name slytherin"> Slytherin</span>, <span class="house-name hogwarts"> Lehrkräfte & Hogwarts-Personal</span>, <span class="house-name other"> Sonstige Bekanntschaften</span>, <span class="house-name beasts"> Kreaturen & Tierwesen</span>
 
@@ -165,5 +140,30 @@ Damit ich nicht den Überblick verliere und genau weiß, bei wem ich aufpassen m
 
 <br>
 
-Aktueller Stand: 02.09.1950
+Aktueller Stand: 03.09.1950
+<br>
+
+- <span style="color: #4caf50; font-weight: bold;">sicher</span>
+  - Personen, die berechenbar sind. Sie halten sich an Regeln, tun, was sie sagen, und lassen mich in Ruhe. Bei ihnen ist es am entspanntesten.
+
+<br>
+
+- <span style="color: #ccc; font-weight: bold;">neutral</span>
+  - Die große Masse. Leute, die einfach da sind, aber keinen Einfluss auf mich haben. Sie sind wie Statisten im Hintergrund.
+
+<br>
+
+- <span style="color: #ffeb3b; font-weight: bold;">Warnung</span>
+  - Hier schrillen die ersten Alarmglocken. Es muss nichts Bestimmtes sein, nur so ein Gefühl, dass irgendwas an der Person nicht stimmt oder nicht zusammenpasst. Wenn mein Instinkt sagt „Vorsicht“, kommen sie hierhin – egal, wie sie sich verhalten.
+
+<br>
+
+- <span style="color: #ff9800; font-weight: bold;">Gefahr</span>
+  - Personen, die offensichtlich Ärger suchen, lügen oder unberechenbar sind. Bei denen halte ich den Mund fest geschlossen und die Augen weit offen. Volle Verteidigungshaltung.
+
+  <br>
+
+- <span style="color: #f44336; font-weight: bold;">Bedrohung</span>
+  - Personen, die aktiv versuchen, mich fertigzumachen. Wer hier landet, für den existiere ich nicht mehr. Ich werde kein Wort mehr mit ihnen wechseln, außer es geht um Leben und Tod.
+
 <br>

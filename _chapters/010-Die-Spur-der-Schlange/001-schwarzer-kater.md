@@ -1,5 +1,5 @@
 ---
-title: 'Im „Schwarzen Kater“: Schecks, Schrumpfköpfe und Sir Richard'
+title: '30.08.1950: Schecks, Schrumpfköpfe und Sir Richard'
 slug: eintrag-001
 abstract: Ella kommt im 'Schwarzen Kater' an.
 date: 1950-08-30

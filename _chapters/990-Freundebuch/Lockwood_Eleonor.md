@@ -47,7 +47,7 @@ last_update: '2. September 1950'
 <li>Fühlt sich von Leo (Hufflepuff) und Genevieve (Slytherin) durch die Haustrennung „verlassen“; bildet eine Zweckgemeinschaft mit Klara und Malona.</li>
 <li>Ella wurde nach Ravenclaw sortiert, erlitt einen Nervenzusammenbruch wegen ihres ruinierten Koffers durch Sir Richard und fand Trost in der Dunkelheit ihres Himmelbetts.</li>
 <li>Sir Richard besuchte neben Leo auch sie in der Nacht und forderte kompromisslos zu Dumbledore gebracht zu werden. Er reiste in Ellas Koffer nach Hogwarts und erleichterte sich zu Ellas Leidwesen darin.</li>
-<li>Ella verbrachte den ersten Morgen auf Hogwarts damit, sich innerlich von ihren Freunden zu isolieren. Zerrissen zwischen der Freundschaft zu Leo und der Angst von ihr später verlassenzuwerden suchte sie eine physische Distanz, um emotionale Autarkie zu simulieren.</li>
+<li>Ella verbrachte den ersten Morgen auf Hogwarts damit, sich innerlich von ihren Freunden zu isolieren. Zerrissen zwischen der Freundschaft zu Leo und der Angst von ihr später verlassenzuwerden suchte sie eine physische Distanz, um emotionale Unabhängigkeit zu simulieren.</li>
 
 <!--
 

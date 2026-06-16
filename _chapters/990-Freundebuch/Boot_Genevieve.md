@@ -38,14 +38,14 @@ observations: '—'
 token_img: 'Genevieve_Boot_Token.webp'
 last_update: '2. September 1950'
 ---
-<li>Nach einem schlechten Start durch Ellas Taktlosigkeit zeigten sie beim nächtlichen Zwischenfall mit dem Jarvey eine erste, fragile Zusammenarbeit.</li>
-<li>Genevieve bewies Rückgrat, als sie sich in der Bank vor Klara stellte, zeigte aber auch Verletzlichkeit gegenüber dem Kobold.</li>
-<li>Genevieve zeigte ihre harte Seite gegen Malona, aber auch ein weiches Herz für die schutzbedürftige Klara.</li>
-<li>Genevieve verlor im Zug die Beherrschung, versuchte sich aber durch Süßigkeiten wieder mit der Gruppe zu versöhnen.</li>
-<li>Alister Finchley hält sie für eine „Wandelnde Tote“.</li>
-<li>Genevieve landete in Slytherin unter unheilvollen Vorzeichen (Gewitter, Reaktion des Hutes), wurde mit eisiger Stille empfangen und scheint ein Zentrum mysteriöser Ereignisse zu sein. Ella vermutet ein düsteres Geheimnis (Verbindung zum Reich der Toten).</li>
-<li>Genevieve schlug vor, Malonas Niffler als strategisches Werkzeug zu behalten, statt ihn zu melden, beziehungsweise Malona mit dem Wissen über den Niffler erpressen.</li>
-<li>Genevieves Lumos-Zauber in Zauberkunst war außergewöhnlich gut. Dafür sollte sie 5 Punkte für Slytherin bekommen, die aber Mildren durch ihr Zuspätkommen wieder abgezogen wurden.</li>
+<li>Nach einem schlechten Start durch Ellas Taktlosigkeit zeigten sie beim nächtlichen Zwischenfall mit dem Jarvey eine erste, fragile Zusammenarbeit [30.08.1950].</li>
+<li>Genevieve bewies Rückgrat, als sie sich in der Bank vor Klara stellte, zeigte aber auch Verletzlichkeit gegenüber dem Kobold [31.08.1950].</li>
+<li>Genevieve zeigte ihre harte Seite gegen Malona, aber auch ein weiches Herz für die schutzbedürftige Klara [31.08.1950].</li>
+<li>Genevieve verlor im Zug die Beherrschung, versuchte sich aber durch Süßigkeiten wieder mit der Gruppe zu versöhnen [01.09.1950].</li>
+<li>Alister Finchley hält sie für eine „Wandelnde Tote“ [01.09.1950].</li>
+<li>Genevieve landete in Slytherin unter unheilvollen Vorzeichen (Gewitter, Reaktion des Hutes), wurde mit eisiger Stille empfangen und scheint ein Zentrum mysteriöser Ereignisse zu sein. Ella vermutet ein düsteres Geheimnis (Verbindung zum Reich der Toten) [01.09.1950].</li>
+<li>Genevieve schlug vor, Malonas Niffler als strategisches Werkzeug zu behalten, statt ihn zu melden, beziehungsweise Malona mit dem Wissen über den Niffler erpressen [02.09.1950].</li>
+<li>Genevieves Lumos-Zauber in Zauberkunst war außergewöhnlich gut. Dafür sollte sie 5 Punkte für Slytherin bekommen, die aber Mildren durch ihr Zuspätkommen wieder abgezogen wurden [02.09.1950].</li>
 
 <!--
 Geburtstag: 13.08.1939

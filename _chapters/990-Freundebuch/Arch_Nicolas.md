@@ -1,6 +1,6 @@
 ---
 layout: cvteacher
-title: '???'
+title: 'Bibliothekar ???'
 slug: cvt_archn
 
 # Allgemeine Angaben

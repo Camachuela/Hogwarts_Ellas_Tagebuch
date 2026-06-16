@@ -35,10 +35,13 @@ observations: '—'
 
 # Meta
 token_img: 'Tom_Riddle_Token.webp'
-last_update: '2. September 1950'
+last_update: '3. September 1950'
 ---
 <li>Er traf Ella am Buchladen in der Winkelgasse; die Interaktion war oberflächlich höflich, hinterließ aber ein tiefes Unbehagen.</li>
 <li>Seine beunruhigende Zufallsbegegnung machte Leo und Ella zu Freundinnen.</li>
+<li>Tauchte am Frühstückstisch auf; Sir Richard zeigte sich ihm gegenüber scheu und ängstlich.</li>
+
+
 
 <!--
 

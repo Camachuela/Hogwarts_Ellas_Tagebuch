@@ -38,9 +38,10 @@ observations: '—'
 token_img: 'Oliver_Duville_Token.webp'
 last_update: '2. September 1950'
 ---
-<li>War in bei dem Vorfall bei Gringotts und Melonas Beschuldigung dabei, aber unauffällig.</li>
-<li>Wird verdächtigt mit seinem Bruder Eik, Malona aus dem Boot auf dem Schwarzen See geschubst zu haben.</li>
-<li>Er wurde sofort nach Slytherin sortiert und bestätigte damit Ellas Vorurteile.</li>
+<li>War in bei dem Vorfall bei Gringotts und Melonas Beschuldigung dabei, aber unauffällig [31.08.1950].</li>
+<li>Wird verdächtigt mit seinem Bruder Eik, Malona aus dem Boot auf dem Schwarzen See geschubst zu haben [01.09.1950].</li>
+<li>Er wurde sofort nach Slytherin sortiert und bestätigte damit Ellas Vorurteile [01.09.1950].</li>
+<li>Nachdem sein Bruder Eik Klara in ein Frettchen verwandelt hat, hat er sich mit Leo und Genevieve angelegt, nachgegeben und betrachtet seinen Bruder als Enttäuschung für die Familie [03.09.1950].</li>
 
 <!--
 

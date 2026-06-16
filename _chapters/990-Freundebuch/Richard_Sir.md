@@ -37,8 +37,10 @@ observations: '—'
 token_img: 'Sir_Richard_Token.webp'
 last_update: '1. September 1950'
 ---
-<li>Er krachte gegen das Fenster im Schwarzen Kater, fluchte sich in die Gruppe hinein und wurde von Colin betreut.</li>
-<li>Er reiste als blinder Passagier in Ellas Koffer, ruinierte ihre gesamte Kleidung und wurde nach einem heftigen Streit aus dem Ravenclaw Schlafsaal geworfen, woraufhin er dann in Leos Hufflepuff Schlafsaal auftauchte und sie ebenso nervte.</li>
+<li>Er krachte gegen das Fenster im Schwarzen Kater, fluchte sich in die Gruppe hinein und wurde von Colin betreut [30.08.1950].</li>
+<li>Er reiste als blinder Passagier in Ellas Koffer, ruinierte ihre gesamte Kleidung und wurde nach einem heftigen Streit aus dem Ravenclaw Schlafsaal geworfen, woraufhin er dann in Leos Hufflepuff Schlafsaal auftauchte und sie ebenso nervte [01.09.1950].</li>
+<li>Tauchte beim Frühstück auf, vesteckte sich vor Tom Riddle in Klaras Pullover und reagierte auf Genevieves Amulett [03.09.1950].</li>
+<li>Verriet das Amulett an Dumbledore, der die Mädchen daraufhin befragte und das Amulett zu rauchen und zischen begann [03.09.1950].</li>
 
 <!--
 
