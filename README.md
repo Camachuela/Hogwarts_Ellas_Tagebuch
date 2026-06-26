@@ -91,6 +91,7 @@ Dies ist ein reines Fan-Projekt. Harry Potter, Hogwarts und die Wizarding World 
       <dd><strong>Familiäre Ablehnung:</strong> Darstellung einer emotional distanzierten Eltern-Kind-Beziehung und die Gefühle, nie gut genug und unerwünscht zu sein.</dd>
       <dd><strong>Bullying & Ausgrenzung:</strong> Verbale Aggression, Einschüchterungsversuche durch Gleichaltrige und Berichte über Mobbing-Erfahrungen.</dd>
       <dd><strong>Diskriminierung:</strong> Thematisierung von Vorurteilen aufgrund der Herkunft/Abstammung sowie die Verwendung von fiktiven, abwertenden Begriffen.</dd>
+      <dd><strong>Sexuelle Belästigung:</strong> Darstellung von übergriffigem Verhalten, ungewollten körperlichen Annäherungen oder verbalen Grenzverletzungen.</dd>
       <br>
     <dt>Körperliches & Gesundheit</dt>
       <dd><strong>Chronische Erkrankung:</strong> Darstellung von Asthmasymptomen und der Abhängigkeit von medizinischen Hilfsmitteln in Stressmomenten.</dd>
@@ -98,7 +99,7 @@ Dies ist ein reines Fan-Projekt. Harry Potter, Hogwarts und die Wizarding World 
       <br>
     <dt>Düstere Hintergründe & Traumata</dt>
       <dd><strong>Kriegskontext:</strong> Indirekte und direkte Verweise auf Kriegserlebnisse, Bombardierungen und die psychischen Folgen von Zerstörung (historischer Kontext 1940er/50er Jahre).</dd>
-      <dd><strong>Tod von Minderjährigen:</strong> Erwähnung von Todesfällen unter Schülern.</dd>
+      <dd><strong>Gewalt, Verletzung und Tod (explizit auch bei Minderjährigen):</strong> Explizite oder implizite Beschreibungen von physischer und psychischer Gewalt, schweren Verletzungen und Todesfällen. Dies schließt ausdrücklich auch Schüler, Kinder und Jugendliche mit ein.</dd>
     </dl>
   </div>
 </div>
