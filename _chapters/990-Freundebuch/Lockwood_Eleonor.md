@@ -5,7 +5,7 @@ slug: cvs_lockwoode
 
 # Allgemeine Angaben
 full_name: 'Eleonor Lockwood'
-birth_year: '20.09.1939'
+birth_year: '20.09.1938'
 death_year: '—'
 school_year: '1950'
 house_name: 'Ravenclaw'

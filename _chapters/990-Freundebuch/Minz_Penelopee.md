@@ -7,7 +7,7 @@ slug: cvt_minzp
 full_name: 'Penelopee Minz'
 birth_year: '—'
 death_year: '—'
-char_status: 'Lehrerin für Besenflugstunden'
+char_status: 'Lehrerin für Besenflug'
 house_name: '—'
 house_slug: 'hogwarts'
 location: '—'

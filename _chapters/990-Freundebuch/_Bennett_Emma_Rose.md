@@ -5,8 +5,8 @@ slug: cvo_bennetter
 
 # Allgemeine Angaben
 full_name: 'Emma Rose Bennett'
-birth_year: '1939'
-death_year: '.13.05.1949'
+birth_year: '25.08.1939'
+death_year: '16.06.1950'
 school_year: '—'
 house_name: 'Muggel'
 house_slug: 'other'

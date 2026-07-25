@@ -1,60 +1,71 @@
 ---
-title: 'Titel: Aliteration'
-slug: eintrag-000
-abstract: One Line Summary
-date: 1950-09-01
+title: '04.09.1950: — '
+slug: eintrag-006
+abstract: —
+date: 1950-09-04
 ---
 
-<img src="assets/images/session_pic/Ella_S00_Diary_header.webp" alt="S00 Header">
 
----
-
-**Samstag, der 30. August 1950, 21:50 Uhr, Ravenclaw Gemeinschaftsraum, Hogwarts**
+**Donnerstag, der 4. September 1950, 21:50 Uhr, Ravenclaw-Schlafsaal, Hogwarts.**
 
 ---
 
 Liebe Emma,
 
-...
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <span style="text-decoration: line-through;">ich bin heute gestorben.</span>
+  <span class="tintenfleck-wrapper">
+    <img src="assets/images/general/spot3s.webp" alt="Tintenflecken dunkel" class="tintenfleck-bild tintenfleck-dark-img">
+    <img src="assets/images/general/spot3w.webp" alt="Tintenflecken weiss" class="tintenfleck-bild tintenfleck-light-img">
+  </span>
+</div>
 
-Deine Ella
+nein, das bin ich offensichtlich nicht. Sonst könnte ich dir ja nicht schreiben. Das ist doch lächerlich. Tote Mädchen schreiben nicht. Tote Mädchen liegen kalt und stumm unter der Erde. Ich sitze jedoch in meinem warmen Bett.
 
----
+~~ich bin heute *fast* gestorben.~~
 
-**Haushaltsbuch**
+~~ich wurde angegriffen~~  
 
-Aktueller Stand: 01.09.1950
+~~So viel Blut. Aber es ist weg. Prof. Murtel~~
 
-ALTER SALDO: <span style="text-decoration: underline; text-decoration-style: double;"> xxx Galeonen (G)</span>
-
-
-| Datum | Betrag | Bezeichnung | Rechtfertigung |
-| :--- | :--- | :--- | :--- |
-| 01.09.1950 | - 12 G | Kauf: 2 Schokofrösche | Verpflegungsmehraufwand (Reisekosten) |
-
-
-NEUER SALDO: <span style="text-decoration: underline; text-decoration-style: double;">xxx G</span>
-
-—
-
-_AUFSCHLÜSSELUNG_
-
--
-
----
-
-**Nachtrag: 00:12 Uhr, 30./31. August 1950**
-
-
----
-
-<img src="assets/images/session_pic/Ella_S00_Diary_full.webp" alt="S00 Full">
-
+ich bin müde. Klara kam gerade zur Tür herein.
 
 ---
 
 
 <style>
+  .tintenfleck-wrapper {
+    /* Die Breite MUSS in den Rahmen! */
+    width: 3%;
+    /* Ein kleiner Abstand zum Strich */
+    margin-left: -2px;
+  }
+
+  .tintenfleck-bild {
+    /* Das Bild füllt den 20%-Rahmen nun komplett aus */
+    width: 100%;
+    height: auto;
+    display: block;
+    /* NEU: Die Positionierung für die Feinjustierung */
+  position: relative;
+  top: 0 px; /* -3 Schiebt das Bild um 3 Pixel nach oben. */
+}
+
+      /* Standardmäßig (für das weiße und Sepia-Theme): Das weiße Bild verstecken */
+      .tintenfleck-light-img {
+        display: none;
+      }
+
+      /* Nur im Midnight-Theme: Dunkles Bild verstecken, weißes Bild anzeigen */
+      .book.color-theme-2 .tintenfleck-dark-img {
+        display: none;
+      }
+
+      .book.color-theme-2 .tintenfleck-light-img {
+        display: inline-block;
+      }
+
+
 /* Tränenoptik */
   .strike-container {
     position: relative;

@@ -1,6 +1,6 @@
 ---
 layout: cvteacher
-title: 'Bibliothekar ???'
+title: 'Arch, Nicolas'
 slug: cvt_archn
 
 # Allgemeine Angaben

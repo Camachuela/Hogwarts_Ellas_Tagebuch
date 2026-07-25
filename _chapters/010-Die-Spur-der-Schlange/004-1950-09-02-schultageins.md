@@ -9,7 +9,7 @@ date: 1950-09-02
 
 ---
 
-**Dienstag, der 2. September 1950, 21:34 Uhr, Ravenclaw Gemeinschaftsraum, Hogwarts**
+**Dienstag, der 2. September 1950, 21:34 Uhr, Ravenclaw Gemeinschaftsraum, Hogwarts.**
 
 ---
 

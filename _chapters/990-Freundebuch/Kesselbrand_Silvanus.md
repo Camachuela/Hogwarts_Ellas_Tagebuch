@@ -7,7 +7,7 @@ slug: cvt_kesselbrands
 full_name: 'Silvanus Kesselbrand'
 birth_year: '—'
 death_year: '—'
-char_status: 'Lehrer für Pflege magischer Geschöpfe'
+char_status: 'Lehrer für Pflege magischer Geschöpfe; Hauslehrer von Ravenclaw'
 house_name: '—'
 house_slug: 'hogwarts'
 location: '—'

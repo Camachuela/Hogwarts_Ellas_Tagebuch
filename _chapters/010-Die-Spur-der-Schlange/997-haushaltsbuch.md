@@ -3,13 +3,14 @@ title: Haushaltsbuch
 slug: haushaltsbuch
 abstract:
 ---
-Aktueller Stand: 03.09.1950
+Aktueller Stand: 04.09.1950
 
-ALTER SALDO: <span style="text-decoration: underline; text-decoration-style: double;"> 127 Galeonen (G)</span>
+ALTER SALDO: <span style="text-decoration: underline; text-decoration-style: double;"> 162 Galeonen (G)</span>
 
 
 | Datum | Betrag | Bezeichnung | Rechtfertigung |
 | :--- | :--- | :--- | :--- |
+| 04.09.1950 | - 1 G | Spende: Malona | Aufwandsentschädigung |
 | 03.09.1950 | + 35 G | Einnahme | Inbesitznahme herrenlosen Guts (Fundrecht) |
 | 01.09.1950 | - 12 G | Ausgabe: 2 Schokofrösche | Verpflegungsmehraufwand (Reisekosten) |
 | 31.08.1950 | + 300 G | Startkapital Gringotts | Darlehensaufnahme. Beginn der 7-Jahres-Frist. |
@@ -21,4 +22,4 @@ ALTER SALDO: <span style="text-decoration: underline; text-decoration-style: dou
 |   | - 56  G | Ausgabe: Schulbücher (Flourish & Blotts) | Unumgängliche Pflichtausgaben für Bildung. |
 
 
-NEUER SALDO: <span style="text-decoration: underline; text-decoration-style: double;">162 G</span>
+NEUER SALDO: <span style="text-decoration: underline; text-decoration-style: double;">161 G</span>
