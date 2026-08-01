@@ -7,7 +7,7 @@ slug: cvt_riddlet
 full_name: 'Tom Riddle'
 birth_year: '—'
 death_year: '—'
-char_status: 'ehemaliger Schüler Hogwarts; angehender Lehrer'
+char_status: 'Vertretung von Dumbledore für Verwandlung'
 house_name: '—'
 house_slug: 'other'
 location: '—'
@@ -30,7 +30,7 @@ char_sensitivity: '—'
 estimate_instinct: 'Ella empfindet ihn als unheimlich und „nicht echt“. Leo misstraut ihm sofort.'
 estimate_rumors: '—'
 estimate_quote: '—'
-relation_status: 'Beunruhigende Zufallsbegegnung.'
+relation_status: 'Beunruhigende Zufallsbegegnung; Vertretungslehrer'
 observations: '—'
 
 # Meta
@@ -40,6 +40,7 @@ last_update: '3. September 1950'
 <li>Er traf Ella am Buchladen in der Winkelgasse; die Interaktion war oberflächlich höflich, hinterließ aber ein tiefes Unbehagen.</li>
 <li>Seine beunruhigende Zufallsbegegnung machte Leo und Ella zu Freundinnen.</li>
 <li>Tauchte am Frühstückstisch auf; Sir Richard zeigte sich ihm gegenüber scheu und ängstlich.</li>
+<!--<li>Führte einen unverzeihlichen Fluch auf eine Schlangenbeschwörung in seiner ersten Vertretungsstunde aus.</li>-->
 
 
 

@@ -38,10 +38,12 @@ observations: '—'
 token_img: 'Dorothy_Langford_Token.webp'
 last_update: '2. September 1950'
 ---
-<li>Sie wurde ohne Bedenkzeit nach Gryffindor geschickt und bestärkte Ella in dem Bild, dass Gryffindors vor allem durch Kühnheit auffallen.</li>
-<li>Sie führte die Erstklässlergruppe zielsicher am ersten Schultag von Unterricht zu Unterricht.</li>
+<li>Sie wurde ohne Bedenkzeit nach Gryffindor geschickt und bestärkte in dem Bild, dass Gryffindors vor allem durch Kühnheit auffallen [01.09.1950].</li>
+<li>Sie führte die Erstklässlergruppe zielsicher am ersten Schultag von Unterricht zu Unterricht [02.09.1950].</li>
+
 
 <!--
+<li>Befahl Professor Riddle den Cruciatus-Fluch auf eine beschworene Schlange zu beenden [01.10.1950].</li>
 
 <li>—</li>
 

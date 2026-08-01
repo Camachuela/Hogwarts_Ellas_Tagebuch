@@ -44,6 +44,8 @@ last_update: '1. September 1950'
 
 <!--
 
+<li>Richard Hawks, Unsäglicher des Zaubereiministeriums, durch die Umleitung eines Blutfluchs von einer Geliebten (Leos Mutter) selbst zum Tierwesen geworden; Patron von Leo [01.10.1950].</li>
+
 <li>—</li>
 
 <li>—</li>

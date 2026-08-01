@@ -4,7 +4,7 @@ title: 'Arch, Nicolas'
 slug: cvt_archn
 
 # Allgemeine Angaben
-full_name: '???'
+full_name: 'Nicolas Arch'
 birth_year: '—'
 death_year: '—'
 char_status: 'Bibliothekar'
@@ -19,7 +19,7 @@ appearance_behavior: '—'
 appearance_details: '—'
 
 # Charakter
-char_pupils: '—'
+char_pupils: 'Sehr streng'
 char_facade: '—'
 char_motives: '—'
 char_strength: '—'
@@ -35,9 +35,9 @@ observations: '—'
 
 # Meta
 token_img: 'Nicolas_Arch_Token.webp'
-last_update: '2. September 1950'
+last_update: '25. September 1950'
 ---
-<li>Der Bibliothekar hat Ella, Klara und Leo harsch ermahnt leiser in der Bibliothek zu sein und direkt mit Rauswurf und Hausverbot gedroht.</li>
+<li>Der Bibliothekar hat Ella, Klara und Leo harsch ermahnt leiser in der Bibliothek zu sein und direkt mit Rauswurf und Hausverbot gedroht [02.09.1950].</li>
 <li>—</li>
 
 

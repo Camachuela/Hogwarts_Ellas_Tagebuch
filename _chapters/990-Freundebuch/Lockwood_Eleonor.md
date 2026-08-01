@@ -36,22 +36,20 @@ observations: '—'
 
 # Meta
 token_img: 'Ella_Lockwood_Token.webp'
-last_update: '2. September 1950'
+last_update: '4. September 1950'
 ---
-<li>Ella versucht, das Trauma der Abschiebung durch ihre Eltern und die Überwältigung durch die Magie mit Logik zu bekämpfen, scheitert aber an der emotionalen Last und der Enge des Fahrstuhls.</li>
-<li>Ella erlebte einen Moment echter Begeisterung im Buchladen und fand in ihrem Zauberstab ein erstes Gefühl von „Zugehörigkeit“.</li>
-<li>Beginnt, Leo, Genevieve und Klara als ihre „Verbündeten“ zu akzeptieren.</li>
-<li>Ella überwand die Barriere zu Gleis 9 ¾ durch einen Unfall und erlebte eine emotionale Überforderung, als Leo auf ihrer Schulter einschlief.</li>
-<li>Entwickelt eine tiefe, fast beängstigende Bindung zu Leo; schützt Klara; beobachtet Genevieve misstrauisch.</li>
-<li>Ella überstand die traumatisierende Überquerung des Schwarzen Sees nur dank Leos Hand und beobachtete die Haussortierungen mit analytischer Schärfe.</li>
-<li>Fühlt sich von Leo (Hufflepuff) und Genevieve (Slytherin) durch die Haustrennung „verlassen“; bildet eine Zweckgemeinschaft mit Klara und Malona.</li>
-<li>Ella wurde nach Ravenclaw sortiert, erlitt einen Nervenzusammenbruch wegen ihres ruinierten Koffers durch Sir Richard und fand Trost in der Dunkelheit ihres Himmelbetts.</li>
-<li>Sir Richard besuchte neben Leo auch sie in der Nacht und forderte kompromisslos zu Dumbledore gebracht zu werden. Er reiste in Ellas Koffer nach Hogwarts und erleichterte sich zu Ellas Leidwesen darin.</li>
-<li>Ella verbrachte den ersten Morgen auf Hogwarts damit, sich innerlich von ihren Freunden zu isolieren. Zerrissen zwischen der Freundschaft zu Leo und der Angst von ihr später verlassenzuwerden suchte sie eine physische Distanz, um emotionale Unabhängigkeit zu simulieren.</li>
+<li>Ella hat im Fahrstuhl im Schwarzen Kater einen Asthmaanfall, den Leo nicht bemerkt und Ella gut verstecken kann [30.08.1950].</li>
+<li>Ella überwand die Barriere zu Gleis 9 ¾ durch einen Unfall und erlebte eine emotionale Überforderung, als Leo auf ihrer Schulter einschlief [01.09.1950].</li>
+<li>Entwickelt eine tiefe, fast beängstigende Bindung zu Leo; schützt Klara; beobachtet Genevieve misstrauisch [01.09.1950].</li>
+<li>Ella wurde nach Ravenclaw sortiert, erlitt einen Nervenzusammenbruch wegen ihres ruinierten Koffers durch Sir Richard und fand Trost in der Dunkelheit ihres Himmelbetts [01.09.1950].</li>
+<li>Ella zeigte sich überraschend stark im Kampf gegen die Ghule und dem Erkling [03.09.1950]</li>
+<li>Ella musste Nachsitzen, weil sie im Schleichen durch das Schloss erwischt wurde, als sie sich vom Verbotenen Wald zurück geschlichen hat. Professor Murtel übernahm die „Aufsicht“. Ella wurde angegriffen während des Nachsitzens und dachte, sie muss sterben. Sie findet eine Erinnerungsphiole. Professor Murtel heilte sie rückstandslos und will Ella am Geschehen zweifeln lassen. Sie erleidet danach einen autistischen Meltdown mit Asthmaanfall und kann durch Klara beruhigt werden. Sie wirft Klara und Genevieve vor immerzu nur zu lügen und distanziert sich von beiden. Sie gibt auch Klara die Schuld für den Angriff, weil sie über die Gefahren im Schloss gelogen hatte bezüglich Olivers Angriff. Sie sucht mehr Kontakt zu Malona [04.09.1950]</li>
+
+
 
 <!--
 
-<li>—</li>
+<li>Sie repariert mit Malona das durch Benedict und Klara zerbrochene Fenster im Gemeinschaftsraum und findet bei dem Niffler eine weitere Phiole. Bei einer gemeinsamen Hausaufgabe in der Bibliothek kommen sich Ella und Klara wieder etwas näher. Sie werden von Genevieve überrumpelt und in die Verbotene Abteilung geschleust. Sie nutzen das Denkarium für die Phiolen und sehen Leos Geheimnis [01.10.1950].</li>
 
 <li>—</li>
 

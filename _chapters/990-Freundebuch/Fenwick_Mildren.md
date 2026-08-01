@@ -36,7 +36,8 @@ observations: '—'
 
 # Meta
 token_img: 'Mildren_Fenwick_Token.webp'
-last_update: '2. September 1950'
+last_update: '4. September 1950'
 ---
-<li>Beschoss die Mädchen mit Magie-Feuerwerk in der Winkelgasse.</li>
-<li>Verschlief am ersten Schultag den Zaubereiunterricht und kostete Genevieve 5 Hauspunkte daraufhin.</li>
+<li>Beschoss die Mädchen mit Magie-Feuerwerk in der Winkelgasse [31.08.1950].</li>
+<li>Verschlief am ersten Schultag den Zaubereiunterricht und kostete Genevieve 5 Hauspunkte daraufhin [02.09.1950].</li>
+<li>Flog mit dem Besen im Flugkundeunterricht über die Gebäude, blieb hängen und stürzte ab. Klara musste sie retten [04.09.1950].</li>

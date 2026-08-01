@@ -36,7 +36,7 @@ observations: '—'
 
 # Meta
 token_img: 'Eik_Duville_Token.webp'
-last_update: '3. September 1950'
+last_update: '4. September 1950'
 ---
 <li>Er beleidigte die Mädchen in der Bank als Schlammblut, bedrängte Malona und geriet in einen heftigen Streit mit Leo, bis Abraxas Malfoy einschritt [31.08.1950].</li>
 <li>Wird verdächtigt mit seinem Bruder Oliver Malona aus dem Boot auf dem Schwarzen See geschubst zu haben [01.09.1950].</li>
@@ -44,6 +44,7 @@ last_update: '3. September 1950'
 <li>Eik hat Klara im Unterricht Pflege magischer Geschöpfe in ein Wiesel verwandelt, weil sie ihn „genervt“ hat. Er wurde dafür gemaßregelt, hat Hauspunkte abgezogen bekommen und hat es sich verscherzt, da er keine Einsicht oder Reue zeigte [03.09.1950].</li>
 <li>Es kam zur Auseinandersetzung mit Leo, Klara und Genevieve [03.09.1950].</li>
 <li>Sein Bruder Oliver sagte, er sei eine Enttäuschung für die Familie [03.09.1950].</li>
+<li> Wird von den anderen Schüler:innen verdächt seinen Bruder tödlich verletzt zu haben [04.09.1950].</li>
 
 
 <!--

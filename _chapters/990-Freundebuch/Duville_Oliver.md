@@ -36,12 +36,14 @@ observations: '—'
 
 # Meta
 token_img: 'Oliver_Duville_Token.webp'
-last_update: '2. September 1950'
+last_update: '4. September 1950'
 ---
 <li>War in bei dem Vorfall bei Gringotts und Melonas Beschuldigung dabei, aber unauffällig [31.08.1950].</li>
 <li>Wird verdächtigt mit seinem Bruder Eik, Malona aus dem Boot auf dem Schwarzen See geschubst zu haben [01.09.1950].</li>
 <li>Er wurde sofort nach Slytherin sortiert und bestätigte damit Ellas Vorurteile [01.09.1950].</li>
 <li>Nachdem sein Bruder Eik Klara in ein Frettchen verwandelt hat, hat er sich mit Leo und Genevieve angelegt, nachgegeben und betrachtet seinen Bruder als Enttäuschung für die Familie [03.09.1950].</li>
+<li>Wurde abends tödlich angegriffen im Jungsklo; Klara fand ihn und rettete ihm das Leben. Liegt seither auf der Krankenstation [03.09.1950].</li>
+<li> Kommunizierte mit Klara und Genevieve, dass er nicht wüsste, was ihn angegriffen habe, aber Eik war es nicht [04.09.1950].</li>
 
 <!--
 

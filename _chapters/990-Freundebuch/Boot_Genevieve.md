@@ -36,20 +36,24 @@ observations: '—'
 
 # Meta
 token_img: 'Genevieve_Boot_Token.webp'
-last_update: '2. September 1950'
+last_update: '4. September 1950'
 ---
 <li>Nach einem schlechten Start durch Ellas Taktlosigkeit zeigten sie beim nächtlichen Zwischenfall mit dem Jarvey eine erste, fragile Zusammenarbeit [30.08.1950].</li>
 <li>Genevieve bewies Rückgrat, als sie sich in der Bank vor Klara stellte, zeigte aber auch Verletzlichkeit gegenüber dem Kobold [31.08.1950].</li>
 <li>Genevieve zeigte ihre harte Seite gegen Malona, aber auch ein weiches Herz für die schutzbedürftige Klara [31.08.1950].</li>
 <li>Genevieve verlor im Zug die Beherrschung, versuchte sich aber durch Süßigkeiten wieder mit der Gruppe zu versöhnen [01.09.1950].</li>
-<li>Alister Finchley hält sie für eine „Wandelnde Tote“ [01.09.1950].</li>
+<li>Alister Finchley hält sie für eine „wandelnde Tote“ [01.09.1950].</li>
 <li>Genevieve landete in Slytherin unter unheilvollen Vorzeichen (Gewitter, Reaktion des Hutes), wurde mit eisiger Stille empfangen und scheint ein Zentrum mysteriöser Ereignisse zu sein. Ella vermutet ein düsteres Geheimnis (Verbindung zum Reich der Toten) [01.09.1950].</li>
 <li>Genevieve schlug vor, Malonas Niffler als strategisches Werkzeug zu behalten, statt ihn zu melden, beziehungsweise Malona mit dem Wissen über den Niffler erpressen [02.09.1950].</li>
 <li>Genevieves Lumos-Zauber in Zauberkunst war außergewöhnlich gut. Dafür sollte sie 5 Punkte für Slytherin bekommen, die aber Mildren durch ihr Zuspätkommen wieder abgezogen wurden [02.09.1950].</li>
+<li>Genevieve scheint kein Glück in der Zaubererwelt zu haben: Im Schwarzen Kater fällt sie in eine Pfütze, in der Winkelgasse fällt sie um, als Mildren sie mit magischem Feuerwerk beschießt, in der Großen Halle fällt sie von der Sitzbank, weil sie sich vor dem Hausgeist erschreckt, im Kräuterkundeunterricht zerbirst ihre Löffelkrautdose und bedeckt sie, im Tierwesenunterricht wird sie nur angekackt.</li>
+<li>Ella macht aus Versehen ihr geliebtes Amulett in Dumbledores Büro kaputt, dass sich als verflucht herausstellt und schwarz raucht [03.09.1950].</li>
+<li>Genevieve lügt bei jeder Gelegenheit. Ella distanziert sich von ihr und ihren Lügen [04.09.1950].</li>
 
 <!--
 Geburtstag: 13.08.1939
-<li>—</li>
+
+<li>Sie bekommt von Ella eine selbstgebastelte Ersatzkette geschenkt aus, um das zerstörte Amulett wiedergutzumachen [01.10.1950].</li>
 
 <li>—</li>
 

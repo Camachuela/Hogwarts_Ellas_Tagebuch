@@ -36,14 +36,14 @@ observations: '—'
 
 # Meta
 token_img: 'Benedict_Moorfield_Token.webp'
-last_update: '2. September 1950'
+last_update: '4. September 1950'
 ---
 <li>Suchte im Bücherladen in der Winkelgasse nach Büchern über das Besenfliegen. Er hofft, die praktischen Flugstunden mit theoretischem Wissen umgehen zu können. Knüpfte mit Leo über ihre Flugangst an, ignorierte Ella komplett.</li>
 <li>Saß mit Ella und Leo im Boot auf dem Schwarzen See, starrte nur unheimlich Leo an.</li>
 <li>Trotz seiner offensichtlichen Angst vor dem Fliegen und seinem seltsamen Starren wurde er nach Ravenclaw sortiert, wo er nun mit Klara und Ella im selben Haus ist.</li>
 
 <!--
-
+<li>Stand am Fenster außen des Ravenclaw-Gemeinschaftsraumes und musste von Klara gerettet werden [01.10.1950].</li>
 <li>—</li>
 
 <li>—</li>

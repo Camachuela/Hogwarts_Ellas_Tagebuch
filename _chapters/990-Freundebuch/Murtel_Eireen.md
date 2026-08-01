@@ -35,7 +35,7 @@ observations: 'Respektiert offen gezeigte Stärke und Härte. Bevorzugt die Prax
 
 # Meta
 token_img: 'Eireen_Murtel_Token.webp'
-last_update: '2. September 1950'
+last_update: '4. September 1950'
 ---
 <li>Einstieg über die Gefahren von Dementoren. Murtel lässt alle Schulbücher mit einem ohrenbetäubenden magischen Knall zuschlagen und zwingt die Klasse in 30 Sekunden zur Gruppeneinteilung [02.09.1950].</li>
 <li>Erste Versuche mit dem Schildzauber Protego [02.09.1950].</li>
@@ -44,8 +44,10 @@ last_update: '2. September 1950'
 <li>Die Klasse muss in zwei Reihen gegeneinander antreten (Angriff vs. Verteidigung). Es kommt zu echten, teils schmerzhaften Treffern [02.09.1950].</li>
 <li>Alister verfällt in einen tranceartigen Zustand und warnt vor lauernder dunkler Magie. Murtel bestätigt dies, erzählt von ihrer Auroren-Vergangenheit und warnt die Klasse eindringlich davor, wirklich jedem in Hogwarts zu misstrauen [02.09.1950].</li>
 
-<!--
+<li>Brummte Ella Nachsitzen auf, wobei Ella verletzt wurde, heilte sie vollkommen emotionslos und ließ sie daran zweifeln, dass das überhaupt passiert sei [04.09.1950].</li>
 
+<!--
+<li>Hat Ella auf dem Kieker, meinte, dass Opfer selber Schuld seien, wenn sie angegriffen werden und sich nicht verteidigen können und führte Ella im VgddK vor [01.10.1950].</li>
 <li>—</li>
 
 <li>—</li>

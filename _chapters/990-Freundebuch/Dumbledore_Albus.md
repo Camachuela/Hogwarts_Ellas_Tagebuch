@@ -7,7 +7,7 @@ slug: cvt_dumbledorea
 full_name: 'Albus Dumbledore'
 birth_year: '—'
 death_year: '—'
-char_status: 'Lehrer für Verwandlung; Hauslehrer von Gryffindor'
+char_status: 'Lehrer für Verwandlung [momentan auf Exkursion]; Hauslehrer von Gryffindor'
 house_name: 'Gryffindor'
 house_slug: 'hogwarts'
 location: 'sein Büro; Klassenzimmer für Verwandlung'
@@ -31,7 +31,7 @@ estimate_instinct: 'kompetent und schützend, aber moralisch flexibel, undurchsc
 estimate_rumors: 'Berühmt aus der Zeitung; lebende Legende durch seinen Sieg über den schwarzen Magier Gellert Grindelwald.'
 estimate_quote: '—'
 relation_status: 'Mentor und Vertrauensperson; bittet um Berichterstattung und Mithilfe. Respektiert, aber durch seine geheimniskrämerische und übergriffige Art kritisch beäugt'
-observations: 'Nutzt Sir Richard als Spion im Schloss; zögert nicht, gefährliche Artefakte direkt zu konfiszieren; sein Büro ist ein überladener Gryffindor-Schrein.'
+observations: 'Nutzt Sir Richard als Spion im Schloss; zögert nicht, gefährliche Artefakte direkt zu konfiszieren; sein Büro ist ein überladener Gryffindor-Schrein; strickt gerne'
 
 # Meta
 token_img: 'Albus_Dumbledore_Token.webp'

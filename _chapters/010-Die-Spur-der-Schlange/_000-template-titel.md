@@ -5,7 +5,9 @@ abstract: One Line Summary
 date: 1950-09-01
 ---
 
+<!--
 <img src="assets/images/session_pic/Ella_S00_Diary_header.webp" alt="S00 Header">
+-->
 
 ---
 
@@ -48,7 +50,9 @@ _AUFSCHLÜSSELUNG_
 
 ---
 
+<!--
 <img src="assets/images/session_pic/Ella_S00_Diary_full.webp" alt="S00 Full">
+-->
 
 
 ---

@@ -36,11 +36,12 @@ observations: '—'
 
 # Meta
 token_img: 'Prudence_Holling_Token.webp'
-last_update: '2. September 1950'
+last_update: '4. September 1950'
 ---
-<li>Sie stürmte das Abteil des Hogwarts Expresses, redete alles in Grund und Boden und verschwand so schnell, wie sie gekommen war.</li>
-<li>Wurde freudig nach Hufflepuff sortiert und mit ihrem Bruder Alister vereint.</li>
-<li>Prudence versuchte Leo am Morgen von der Gruppe zu isolieren, scheiterte aber an Leos Loyalität und Alisters Eingreifen.</li>
+<li>Sie stürmte das Abteil des Hogwarts Expresses, redete alles in Grund und Boden und verschwand so schnell, wie sie gekommen war [01.09.1950].</li>
+<li>Wurde freudig nach Hufflepuff sortiert und mit ihrem Bruder Alister vereint [01.09.1950].</li>
+<li>Prudence versuchte Leo am Morgen von der Gruppe zu isolieren, scheiterte aber an Leos Loyalität und Alisters Eingreifen [02.09.1950].</li>
+<li>Erwähnte, dass Leo nicht in ihrem Bett gewesen sei, meint Eik hätte etwas damit zu tun, genauso wie mit dem Angriff auf Oliver und warf den Mädchen vor „tolle“ Freundinnen zu sein und mehr miteinander sprechen zu müssen [04.09.1950].</li>
 
 <!--
 

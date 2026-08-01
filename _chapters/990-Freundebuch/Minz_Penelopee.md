@@ -35,9 +35,10 @@ observations: '—'
 
 # Meta
 token_img: 'Penelopee_Minz_Token.webp'
-last_update: '2. September 1950'
+last_update: '4. September 1950'
 ---
-<li>—</li>
+<li>Brachte den verletzten Oliver auf die Krankenstation, nachdem Klara um Hilfe gerufen hatte [03.09.1950].</li>
+<li>War sehr nett in der ersten Besenflugstunde [04.09.1950]</li>
 
 <!--
 

@@ -35,11 +35,13 @@ observations: '—'
 
 # Meta
 token_img: 'Rubeus_Hagrid_Token.webp'
-last_update: '2. September 1950'
+last_update: '3. September 1950'
 ---
-<li>Er führte die Erstklässler zum Schwarzen See und rettete Malona aus dem Wasser, wobei Ella sein Handeln als Erleichterung über eine vermiedene Statistik-Verschlechterung interpretierte.</li>
+<li>Er führte die Erstklässler zum Schwarzen See und rettete Malona aus dem Wasser, wobei Ella sein Handeln als Erleichterung über eine vermiedene Statistik-Verschlechterung interpretierte [01.09.1950].</li>
+<li>Wurde mehrfach im Tagespropheten als Hauptverdächtiger im Todesfall um Myrte Warren erwähnt [01.09.1950].</li>
+<li>Hat mit Professor Kesselbrand zusammen den magische Tierwesen Unterricht geleitet und wirkte dabei überfordert, Schulleiter Dippet sprach mit ihm über einen Aragog und half am Abend mithilfe eines Diricawls Genevieve, Leo und Ella unbemerkt zurück ins Schloss zu gelangen, nach ihrem Ausflug in den Verbotenen Wald [03.09.1950].</li>
 
-<li>Wurde mehrfach im Tagespropheten als Hauptverdächtiger im Todesfall um Myrte Warren erwähnt.</li>
+
 
 <!--
 

@@ -9,7 +9,7 @@ date: 1950-08-30
 
 ---
 
-**Samstag, der 30. August 1950, 21:50 Uhr, Im Schwarzen Kater, irgendwo in London.**
+**Samstag, der 30. August 1950, 21:50 Uhr, Im Schwarzen Kater, 22 Charing Cross Road, London.**
 
 ---
 

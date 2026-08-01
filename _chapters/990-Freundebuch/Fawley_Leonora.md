@@ -11,7 +11,7 @@ school_year: '1950'
 house_name: 'Hufflepuff'
 house_slug: 'hufflepuff' # wichtig für Banner/Siegel! (kleingeschrieben)
 wand: 'Birkenholz, Hasenbockgeweih, 14 Zoll'
-location: '—'
+location: '[verschwunden]'
 estimate_danger: 'grün'
 
 # Äußere Erscheinung
@@ -36,9 +36,8 @@ observations: 'Objekt des Interesses für Schulleiter Dippet.'
 
 # Meta
 token_img: 'Leonora_Fawley_Token.webp'
-last_update: '2. September 1950'
+last_update: '4. September 1950'
 ---
-
 <li>Leo fungiert als Ellas Anker und Übersetzerin für die magische Welt; sie rettete Ella emotional während der Fahrstuhlfahrt und im Umgang mit der Wirtin [30.08.1950].</li>
 
 <li>Leo hat Ella durch die Reizüberflutung der Winkelgasse geleitet und sie subtil vor Tom Riddle abgeschirmt [31.08.1950].</li>
@@ -59,8 +58,10 @@ last_update: '2. September 1950'
 
 <li>Stürmt mutig und unbewaffnet in Kampfsituation voraus [03.09.1950].</li>
 
+<li>Verschwand in der Nacht vom 03.09. auf den 04.09. spurlos [04.09.1950].</li>
+
 <!--
-<li></li>
+<li>Genevieve, Klara und Ella erfahren in einer Erinnerung im Denkarium, dass Leo einen Blutfluch geerbt hat und ein Maledictus ist. Sie wird sich irgendwann in einen Phönix verwandeln. Ihre sprühenden Haare sind die ersten Verwandlungszeichen. Deswegen ist sie über Nacht verschwunden und ins Ministerium gebracht worden [01.10.1950].</li>
 
 <li></li>
 

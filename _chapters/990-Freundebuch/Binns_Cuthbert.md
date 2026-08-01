@@ -15,11 +15,11 @@ estimate_danger: 'weiß'
 
 # Äußere Erscheinung
 appearance_features: 'Geist'
-appearance_behavior: '—'
+appearance_behavior: 'gebrechlich und äußerst langweilig'
 appearance_details: '—'
 
 # Charakter
-char_pupils: '—'
+char_pupils: 'gleichgültig'
 char_facade: '—'
 char_motives: '—'
 char_strength: '—'
@@ -27,7 +27,7 @@ char_weakness: '—'
 char_sensitivity: '—'
 
 # Einschätzung
-estimate_instinct: '—'
+estimate_instinct: 'die nächsten Jahre werden sehr langweilig'
 estimate_rumors: '—'
 estimate_quote: '—'
 relation_status: '—'
@@ -35,9 +35,9 @@ observations: '—'
 
 # Meta
 token_img: 'Cuthbert_Binns_Token.webp'
-last_update: '2. September 1950'
+last_update: '4. September 1950'
 ---
-<li>—</li>
+<li>Hielt seine erste Geschichtsstunde und ist dabei immer wieder eingeschlafen [04.09.1950].</li>
 
 <!--
 
