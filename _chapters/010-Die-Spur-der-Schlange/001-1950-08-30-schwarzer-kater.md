@@ -1,11 +1,13 @@
 ---
 title: '30.08.1950: Schecks, Schrumpfköpfe und Sir Richard'
 slug: eintrag-001
-abstract: Ella kommt im 'Schwarzen Kater' an.
+abstract: Ella kommt im 'Schwarzen Kater' an und findet neue Freunde.
 date: 1950-08-30
 ---
 
-<img src="assets/images/session_pic/Ella_S01_Diary_header.webp" alt="S01 Header">
+<!--
+<img src="assets/images/session_pic/Ella_S00_Diary_header.webp" alt="S00 Header">
+-->
 
 ---
 
@@ -447,14 +449,14 @@ Deine Ella
 **Nachtrag: 00:12 Uhr**
 
 Ich, nochmal.
-​
+
 Ich habe wirklich verzweifelt versucht zu schlafen, aber es war schlichtweg unmöglich. Es lag nicht nur an diesem furchtbaren Gewitter, das draußen tobte, oder an meinen unaufhörlich rasenden Gedanken. Es war vor allem diese fremde Umgebung, die mich wachhielt. Es war einfach alles viel zu viel. Diese schwere, fremde Mischung aus unterschiedlichen Gerüchen im Zimmer hing so dicht in der Luft, dass ich das Gefühl hatte, kaum atmen zu können. Dazu kam das ständige, ungleichmäßige Atemgeräusch der anderen drei Mädchen in der Dunkelheit, das mich schier verrückt machte.
 
 Und während ich so dalag und zu schlafen versuchte, ertönte plötzlich ein schriller, geradezu verzweifelter Hilfeschrei, der von einem hektischen, trommelnden Klopfen am Fenster draußen im Flur begleitet wurde. Klara und Leo haben wundersamerweise tief und fest weitergeschlafen – wie sie das bei diesem infernalischen Lärm schaffen, ist mir ein vollkommenes Rätsel. Aber Genevieve war hellwach und sah im flackernden Licht genauso verängstigt aus wie ich. Voodoo, der sich an meinem Fußende zusammengerollt hatte, schaute mich derweil im fahlen Kerzenschein nur abwartend und fragend an, als erwarte er ernsthaft, dass ich mir das ansehe.
 
 Wir haben uns also eine brennende Kerze geschnappt und sind vorsichtig in den dunklen Flur zum Fenster geschlichen, wobei Genevieve immer dicht hinter mir blieb und mir vor lauter Angst fast auf die Fersen trat. Ausgerechnet Genevieve! Das Mädchen, das mich wegen meiner Feststellung über ihr Kleid vorhin am liebsten gar nicht mehr ansehen wollte. Aber komischerweise war sie jetzt, im Angesicht dieses unheimlichen Zwischenfalls, auf einmal gar nicht mehr so patzig zu mir. Irgendwie tat es mir in dem Moment ja schon ein bisschen leid, dass ich sie vorhin so gekränkt hatte, auch wenn das natürlich nicht meine Absicht gewesen war. Aber ganz sachlich betrachtet hätte sie auf eine einfache Tatsache trotzdem nicht gleich so giftig reagieren müssen.
 
-Naja, draußen tobte immer noch der strömende Regen. Und dort, auf dem schmalen Fenstersims in diesen luftigen Höhen, in denen wir uns scheinbar befanden, spielte sich eine Szene ab, die mich im ersten Moment wirklich daran zweifeln ließ, ob ich wach war. Für den Bruchteil einer Sekunde überlegte ich allen Ernstes, ob ich vor lauter Erschöpfung nicht vielleicht doch eingeschlafen war und das alles nur ein Traum ist. Aber, wenn ich tatsächlich schlafen und träumen würde, würde ich mich ja vermutlich gar nicht aktiv fragen, ob ich schlafe. Das sprach also ganz klar dafür, dass ich wach sein musste..
+Naja, draußen tobte immer noch der strömende Regen. Und dort, auf dem schmalen Fenstersims in diesen luftigen Höhen, in denen wir uns scheinbar befanden, spielte sich eine Szene ab, die mich im ersten Moment wirklich daran zweifeln ließ, ob ich wach war. Für den Bruchteil einer Sekunde überlegte ich allen Ernstes, ob ich vor lauter Erschöpfung nicht vielleicht doch eingeschlafen war und das alles nur ein Traum ist. Aber, wenn ich tatsächlich schlafen und träumen würde, würde ich mich ja vermutlich gar nicht aktiv fragen, ob ich schlafe. Das sprach also ganz klar dafür, dass ich wach sein musste.
 
 Ich habe zögerlich den Riegel vom Fenster zurückgeschoben und es geöffnet, woraufhin das patschnasse Tier augenblicklich hereinkletterte. Und Emma, es hat tatsächlich gesprochen! Mehr noch, es schüttelte sich erst einmal ausgiebig, machte uns dabei nass und wurde sogleich unfassbar frech. Es plusterte sich auf und meckerte mich in einem unmöglichen Tonfall an, warum das Öffnen des Fensters denn so ewig lange gedauert habe.
 
@@ -474,10 +476,9 @@ Ella
 
 ---
 
-<img src="assets/images/session_pic/Ella_S01_Diary_full.webp" alt="S01 Full">
-
-
-
+<!--
+<img src="assets/images/session_pic/Ella_S00_Diary_full.webp" alt="S00 Full">
+-->
 
 
 [comment]: <> Liebste Schwester,

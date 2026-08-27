@@ -5,7 +5,9 @@ abstract: Ella meistert ihren ersten Unterrichtstag und entdeckt die unberechenb
 date: 1950-09-02
 ---
 
-<img src="assets/images/session_pic/Ella_S04_Diary_header.webp" alt="S04 Header">
+<!--
+<img src="assets/images/session_pic/Ella_S00_Diary_header.webp" alt="S00 Header">
+-->
 
 ---
 
@@ -711,7 +713,9 @@ Bis morgen!
 
 ---
 
-<img src="assets/images/session_pic/Ella_S04_Diary_full.webp" alt="S04 Full">
+<!--
+<img src="assets/images/session_pic/Ella_S00_Diary_full.webp" alt="S00 Full">
+-->
 
 <style>
 /* Tränenoptik */

@@ -5,7 +5,9 @@ abstract: Ella stellt sich bei einem Ausflug ihren Ängsten und findet neue Verb
 date: 1950-09-03
 ---
 
-<img src="assets/images/session_pic/Ella_S05_Diary_header.webp" alt="S05 Header">
+<!--
+<img src="assets/images/session_pic/Ella_S00_Diary_header.webp" alt="S00 Header">
+-->
 
 ---
 
@@ -1066,9 +1068,9 @@ _AUFSCHLÜSSELUNG_
 
 ---
 
-<img src="assets/images/session_pic/Ella_S05_Diary_full.webp" alt="S05 Full">
-
-
+<!--
+<img src="assets/images/session_pic/Ella_S00_Diary_full.webp" alt="S00 Full">
+-->
 
 <style>
 /* Tränenoptik */
