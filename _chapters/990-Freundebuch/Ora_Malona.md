@@ -12,7 +12,7 @@ house_name: 'Ravenclaw'
 house_slug: 'ravenclaw'
 wand: '—'
 location: '—'
-estimate_danger: 'gelb'
+estimate_danger: 'weiß'
 
 # Äußere Erscheinung
 appearance_features: 'trägt einen verdächtig ausgebeulten Mantel.'

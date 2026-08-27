@@ -12,7 +12,7 @@ house_name: 'Ravenclaw'
 house_slug: 'ravenclaw'
 wand: 'Haselnussholz, Rougarouhaar, 13 Zoll'
 location: '—'
-estimate_danger: 'grün'
+estimate_danger: 'weiß'
 
 # Äußere Erscheinung
 appearance_features: 'Braune Haare, klein für ihr Alter'
