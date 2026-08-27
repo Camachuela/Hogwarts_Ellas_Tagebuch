@@ -90,6 +90,8 @@ Dies ist ein reines Fan-Projekt. Harry Potter, Hogwarts und die Wizarding World 
     <dt>Zwischenmenschliche Dynamiken & Belastungen</dt>
       <dd><strong>Familiäre Ablehnung:</strong> Darstellung einer emotional distanzierten Eltern-Kind-Beziehung und die Gefühle, nie gut genug und unerwünscht zu sein.</dd>
       <dd><strong>Bullying & Ausgrenzung:</strong> Verbale Aggression, Einschüchterungsversuche durch Gleichaltrige und Berichte über Mobbing-Erfahrungen.</dd>
+      <dd><strong>Gaslighting & Manipulation:</strong> Gezielte psychologische Manipulation, bei der die Wahrnehmung, die Realität oder der Verstand einer Person systematisch infrage gestellt oder verdreht werden.</dd>
+      <dd><strong>Victim Blaming (Täter-Opfer-Umkehr):</strong> Darstellung von Situationen, in denen Opfern von Gewalt oder Übergriffen – insbesondere durch Autoritätspersonen – die Schuld an ihrem Schicksal zugeschrieben wird.</dd>
       <dd><strong>Diskriminierung:</strong> Thematisierung von Vorurteilen aufgrund der Herkunft/Abstammung sowie die Verwendung von fiktiven, abwertenden Begriffen.</dd>
       <dd><strong>Sexuelle Belästigung:</strong> Darstellung von übergriffigem Verhalten, ungewollten körperlichen Annäherungen oder verbalen Grenzverletzungen.</dd>
       <br>
